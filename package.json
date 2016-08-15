@@ -1,0 +1,28 @@
+{
+  "name": "skwirrelbot",
+  "version": "1.0.0",
+  "description": "What if Kanye West died, was reincarnated as a squirrel and all he did was collect articles instead of monies?",
+  "main": "index.js",
+  "dependencies": {
+    "botkit": "~0.2.2",
+    "node-telegram-bot-api": "0.23.3",
+    "node-pocket": "*"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alonecuzzo/sqwirrelbot.git"
+  },
+  "keywords": [
+    "bot"
+  ],
+  "author": "Jabari Bell",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alonecuzzo/sqwirrelbot/issues"
+  },
+  "homepage": "https://github.com/alonecuzzo/sqwirrelbot#readme"
+}
